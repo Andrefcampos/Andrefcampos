@@ -1,9 +1,8 @@
+## 💻 Hello, Welcome to my Profile!!
+<img src=programming1.gif height=200 align=right>
+<h3>About me</h3>
 
-
-
-<h3>About me</h3><br>
-<div style="display : inline_block">
-  <img src=programming1.gif height=200 align=right>
+<div>
   <ul>
 <li>I am a technology enthusiast;</li>
   </ul>
