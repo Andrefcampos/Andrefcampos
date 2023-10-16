@@ -1,4 +1,4 @@
-<img src=pragramming.gif height=150 align=right>
+<img src=pragramming.gif height=200 align=right>
 
 <h3>About me</h3>
 
