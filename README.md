@@ -1,8 +1,6 @@
-# Andrefcampos
-
 <img src=pragramming.gif height=220 align=right>
 
-<h2>About me</h2>
+<h3>About me</h3>
 
 ##
 
