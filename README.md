@@ -8,12 +8,6 @@
   </ul>
 </div>
 
-<div>
-  <br>
-  <a align="center" href="mailto:andrecampos.wnr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/andrefcampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 #
 ### Conecte-se comigo
 
