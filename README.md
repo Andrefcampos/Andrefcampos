@@ -3,7 +3,7 @@
 
 <h3>About me</h3><br>
 <div style="display : inline_block">
-  <img src=pragramming.gif height=200 align=right>
+  <img src=pragramming1.gif height=200 align=right>
 - I am a technology enthusiast in the midst of a career transition. For about three years, I have embarked on this exciting journey and have been studying constantly to enhance my skills in this field. Fascinated by the innovations and challenges of the digital world, I remain motivated to learn and grow in this ever-evolving domain. I am determined to reach new professional heights and contribute to the advancement of technology in our society.
 </div>
 
