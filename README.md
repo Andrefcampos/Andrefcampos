@@ -2,7 +2,7 @@
 
 <img src=pragramming.gif height=220 align=right>
 
-<h3>About me</h3>
+<h2>About me</h2>
 - I am a technology enthusiast in the midst of a career transition. For about three years, I have embarked on this exciting journey and have been studying constantly to enhance my skills in this field. Fascinated by the innovations and challenges of the digital world, I remain motivated to learn and grow in this ever-evolving domain. I am determined to reach new professional heights and contribute to the advancement of technology in our society.
 
 ### Português
