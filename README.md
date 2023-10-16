@@ -7,9 +7,9 @@
 - Sou um amante de tecnologia em transição de carreira. Há cerca de três anos, embarquei nessa emocionante jornada e tenho estudado constantemente para aprimorar minhas habilidades na área. Fascinado pelas inovações e desafios do mundo digital, continuo motivado a aprender e crescer neste campo em constante evolução. Estou determinado a alcançar novos patamares profissionais e contribuir para o avanço da tecnologia em nossa sociedade.
 
 <div>
-  <a href="https://github.com/ArthurSobreira"><img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurSobreira&show_icons=false&theme=apprentice&include_all_commits=false&count_private=false"></a><br>
-  <a align="center" href="mailto:tutusobreirai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/arthur-sobreira-96591722b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Andrefcampos"><img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=Andrefcampos&show_icons=false&theme=apprentice&include_all_commits=false&count_private=false"></a><br>
+  <a align="center" href="mailto:andrecampos.wnr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/andrefcampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 #
