@@ -1,3 +1,4 @@
+<div>
 <img src=pragramming.gif height=200 align=right>
 
 <h3>About me</h3>
@@ -5,7 +6,7 @@
 ##
 
 - I am a technology enthusiast in the midst of a career transition. For about three years, I have embarked on this exciting journey and have been studying constantly to enhance my skills in this field. Fascinated by the innovations and challenges of the digital world, I remain motivated to learn and grow in this ever-evolving domain. I am determined to reach new professional heights and contribute to the advancement of technology in our society.
-
+</div>
 
 <div>
   <a href="https://github.com/Andrefcampos"><img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=Andrefcampos&show_icons=false&theme=apprentice&include_all_commits=false&count_private=false"></a><br>
