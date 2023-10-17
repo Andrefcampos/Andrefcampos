@@ -1,6 +1,6 @@
 ## Hello, It's my Profile!!
 <img src=programming1.gif height=250 align=left>
-<div align=right>
+<div align=center>
 
  ## I'm ANDRÉ CAMPOS!
 
