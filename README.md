@@ -1,6 +1,6 @@
 ## 💻 Hello, Welcome to my Profile!!
 <img src=programming1.gif height=250 align=left>
-<h3>About me</h3>
+<h3 align="center">About me</h3>
 
 <div>
   <ul>
