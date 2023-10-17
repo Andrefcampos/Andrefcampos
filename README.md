@@ -20,6 +20,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrefcampos/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/dezaodev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrefcampos/)
 
 ## Stacks
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
