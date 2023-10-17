@@ -1,5 +1,5 @@
 ## 💻 Hello, Welcome to my Profile!!
-<img src=programming1.gif height=200 align=right>
+<img src=programming1.gif align=left>
 <h3>About me</h3>
 
 <div>
