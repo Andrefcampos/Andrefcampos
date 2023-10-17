@@ -14,7 +14,6 @@
 
  :outbox_tray: 2024 Goals: create a new project and find a new job.
 </div><br>
-#
 
 ## 
 
