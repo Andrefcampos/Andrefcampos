@@ -3,8 +3,8 @@
 <h3 align="center">About me</h3>
 
 <div>
-  <ul>
-<li align="center">I am a technology enthusiast;</li>
+  <ul align="right">
+<li>I am a technology enthusiast;</li>
   </ul>
 </div>
 
