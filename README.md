@@ -13,7 +13,7 @@
  :books: I’m currently learning everything.
 
  :outbox_tray: 2024 Goals: create a new project and find a new job.
-</div>
+</div><br>
 
 #
 ### Conecte-se comigo
