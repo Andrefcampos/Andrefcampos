@@ -1,21 +1,22 @@
 ## 💻 Hello, It's my Profile!!
 <img src=programming1.gif height=250 align=left>
 <div>
-# Welcome!
+
+ # Welcome!
 
  
 
-## I'm ANDRÉ CAMPOS!
+ ## I'm ANDRÉ CAMPOS!
 
  
 
-:computer: I'm Student from software engineering!
+ :computer: I'm Student from software engineering!
 
-:house_with_garden: I’m from Brazil.
+ :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+ :books: I’m currently learning everything.
 
-:outbox_tray: 2024 Goals: create a new project and find a new job.
+ :outbox_tray: 2024 Goals: create a new project and find a new job.
 </div>
 
 #
