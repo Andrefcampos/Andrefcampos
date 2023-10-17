@@ -4,7 +4,7 @@
 
 <div>
   <ul>
-<li>I am a technology enthusiast;</li>
+<li align="center">I am a technology enthusiast;</li>
   </ul>
 </div>
 
