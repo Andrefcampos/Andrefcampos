@@ -6,7 +6,7 @@
 
  
 
- :computer: I'm Student from software engineering!
+ :computer: I'm Student from software engineering in @42sp school!
 
  :house_with_garden: I’m from Brazil. :brazil:
 
