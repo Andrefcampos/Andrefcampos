@@ -8,7 +8,7 @@
 
  :computer: I'm Student from software engineering!
 
- :house_with_garden: I’m from Brazil.
+ :house_with_garden: I’m from Brazil.:brazil:
 
  :books: I’m currently learning everything.
 
