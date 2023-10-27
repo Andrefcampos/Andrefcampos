@@ -12,7 +12,7 @@
 
  :books: I’m currently learning everything.
 
- :outbox_tray: 2024 Goals: create a new project and find a new job.
+ :outbox_tray: 2024 Goals: finish fundamentals trail at 42sp and find a new job.
 </div><br>
 
 ## 
