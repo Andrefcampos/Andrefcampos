@@ -33,11 +33,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)
 ![SQL](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=264CE4)
 
-[![Andrefcampos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&show_owner=True)](https://github.com/andrefcampos/github-readme-stats)
+[![Andrefcampos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact)](https://github.com/andrefcampos/github-readme-stats)
 ---
 
 ### GitHub Stats
-| [![GitHub Streak](https://streak-stats.demolab.com?user=andrefcampos)](https://git.io/streak-stats) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&show_icons=true&theme=merko)](https://github.com/andrefcampos/github-readme-stats) 
+| [![GitHub Streak](https://streak-stats.demolab.com?user=andrefcampos&show_owner=true)](https://git.io/streak-stats) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&show_icons=true&theme=merko)](https://github.com/andrefcampos/github-readme-stats) 
 |:-:|:-:|
 
 ---
