@@ -1,7 +1,6 @@
 ## Hello, It's my Profile!!
 
-[![Programmer coding nonstop.](img/programming1.gif)](https://www.linkedin.com/in/andrefcampos/)
-<img src=programming1.gif height=250 align=left>
+[![Programmer coding nonstop.](programming1.gif)](https://www.linkedin.com/in/andrefcampos/)
 <div>
 
  ## I'm ANDRÉ CAMPOS!
