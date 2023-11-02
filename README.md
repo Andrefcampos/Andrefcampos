@@ -35,7 +35,7 @@
 ---
 
 ### GitHub Stats
-| [![GitHub Streak](https://streak-stats.demolab.com?user=andrefcampos)](https://git.io/streak-stats) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+| [![GitHub Streak](https://streak-stats.demolab.com?user=andrefcampos)](https://git.io/streak-stats) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 |:-:|:-:|
 
 ---
