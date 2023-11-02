@@ -22,12 +22,6 @@
 
 ---
 
-### Connect with me
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/andrefcampos/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat&logo=twitter)](https://twitter.com/dezaodev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=1E90FF)](https://www.linkedin.com/in/andrefcampos/)
-
 ### Programming and Markup Languages
 ![C](https://img.shields.io/badge/C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
