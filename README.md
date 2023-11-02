@@ -4,12 +4,14 @@
 	<img alt="andrefcamposs stars" src="https://img.shields.io/github/stars/andrefcampos?color=olivedrab" />
 </p>
 
-# Hello, It's my Profile!!
+<h1>Hello, It's my Profile!!</h1>
 
-[![Programmer coding nonstop.](programming1.gif)](https://www.linkedin.com/in/andrefcampos/)
+<p align="left">
+  <img alt="Programmer coding nonstop" src="./programming1.gif">
+</p>
 
-## I'm ANDRÉ CAMPOS!
-
+<h2>About me!</h2>
+	
  :computer: I'm Student from software engineering in @42sp school!
 
  :house_with_garden: I’m from Brazil. :brazil:
@@ -17,8 +19,8 @@
  :books: I’m currently learning everything.
 
  :outbox_tray: 2024 Goals: finish fundamentals trail at 42sp and find a new job.
- 
- ---
+
+---
 
 ### Connect with me
 
