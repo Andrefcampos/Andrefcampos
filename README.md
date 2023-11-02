@@ -1,7 +1,14 @@
+<p align="right">
+	<img alt="andrefcampos visitors" src="https://komarev.com/ghpvc/?username=andrefcampos&color=00FFFF&style=flat&label=visitors" />
+	<img alt="andrefcampos followers" src="https://img.shields.io/github/followers/andrefcampos?color=cyan" />
+	<img alt="andrefcamposs stars" src="https://img.shields.io/github/stars/andrefcampos?color=cyan" />
+</p>
+
 ## Hello, It's my Profile!!
 
 [![Programmer coding nonstop.](programming1.gif)](https://www.linkedin.com/in/andrefcampos/)
-<div>
+
+---
 
  ## I'm ANDRÉ CAMPOS!
 
@@ -14,17 +21,16 @@
  :books: I’m currently learning everything.
 
  :outbox_tray: 2024 Goals: finish fundamentals trail at 42sp and find a new job.
-</div><br>
 
-## 
+ ---
 
-### Conecte-se comigo
+## Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrefcampos/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/dezaodev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFFFFF)](https://www.linkedin.com/in/andrefcampos/)
 
-### Stacks
+## Stacks
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -39,5 +45,3 @@
 ### GitHub Stats
 | [![GitHub Streak](https://streak-stats.demolab.com?user=andrefcampos&theme=merko&count_private=true)](https://git.io/streak-stats) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&show_icons=true&theme=merko)](https://github.com/andrefcampos/github-readme-stats) 
 |:-:|:-:|
-
----
