@@ -41,4 +41,3 @@
 |:-:|:-:|
 
 ---
-username=appinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly
