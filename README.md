@@ -4,13 +4,13 @@
 	<img alt="andrefcamposs stars" src="https://img.shields.io/github/stars/andrefcampos?color=olivedrab" />
 </p>
 
-<h1>Hello, It's my Profile!!</h1>
+<h1>Hello,</h1>
 
 <p align="left">
   <img alt="Be Welcome to profile Andrefcampos" src="./welcome.gif">
 </p>
 
-<h2>About me!</h2>
+<h2></h2>
 	
  :computer: I'm Student from software engineering in @42sp school!
 
