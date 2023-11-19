@@ -7,7 +7,7 @@
 <h1>Hello, It's my Profile!!</h1>
 
 <p align="left">
-  <img alt="Programmer coding nonstop" src="./programming1.gif">
+  <img alt="Be Welcome to profile Andrefcampos" src="./welcome.gif">
 </p>
 
 <h2>About me!</h2>
