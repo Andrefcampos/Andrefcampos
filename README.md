@@ -33,12 +33,9 @@
 
 ---
 <h3>GitHub Stats</h3> 
-<div align="center">
 	
-[![Andrefcampos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#)   [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#)
-
-</div>
-
+|[![Andrefcampos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#)|
+|--|--|
 ---
 
 <h1 align="center"> :trophy: :four::two: Projects:</h1>
