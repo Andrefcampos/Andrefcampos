@@ -40,6 +40,6 @@
 
 <h1 align="center"> :trophy: :four::two: Projects:</h1>
 <h3 align="left"> :star2: Badgets:</h3>
-<a href="https://github.com/Andrefcampos/42school/tree/main/42_Piscine"><img src="./piscine.png" usemap="" alt='Piscine' width="200"/></a>
-<a href="https://github.com/Andrefcampos/42school/tree/main/42_Projects/42_Formation/libft"><img src="./libftm.png" usemap="" alt='Libft' width="200"/></a>
-<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line"><img src="./get_next_linem.png" usemap="" alt='get_next_line' width="200"/></a>
+<a href="https://github.com/Andrefcampos/42school/tree/main/42_Piscine"><img src="./piscine.png" usemap="" alt='Piscine' width="100"/></a>
+<a href="https://github.com/Andrefcampos/42school/tree/main/42_Projects/42_Formation/libft"><img src="./libftm.png" usemap="" alt='Libft' width="100"/></a>
+<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line"><img src="./get_next_linem.png" usemap="" alt='get_next_line' width="100"/></a>
