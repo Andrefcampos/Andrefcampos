@@ -10,18 +10,6 @@
   <img alt="Be Welcome to profile Andrefcampos" src="./welcome.gif">
 </p>
 
-<h2></h2>
-	
- :computer: I'm Student from software engineering in @42sp school!
-
- :brazil: I’m from Brazil.
-
- :books: I’m currently learning everything.
-
- :outbox_tray: 2024 Goals: finish fundamentals trail at 42sp and find a new job.
-
----
-
 ### Programming and Markup Languages
 ![C](https://img.shields.io/badge/C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
