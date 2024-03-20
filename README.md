@@ -26,17 +26,17 @@
 |--|--|
 
 ---
-<div>
-<a align="left" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" /></a>
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" /></a>
 </div>
 
 <h3 align="left"> :star2: BADGETS</h3>
 
-<a href="https://github.com/Andrefcampos/42school/tree/main/42_Piscine"><img src="./piscine.png" alt='Piscine' width="100"/></a> <a><img src="./evaluatione.png" alt='P2P' width="100"/></a>
+<a href="https://github.com/Andrefcampos/42school/tree/main/42_Piscine"><img align="center" src="./piscine.png" alt='Piscine' width="100"/></a> <a><img src="./evaluatione.png" alt='P2P' align="center" width="100"/></a>
 <h2 align="center"> :trophy: :four::two: PROJECTS</h2>	
 <h4 align="left"> :star2: PHASE ONE</h4>
-<a href=""><img src="./phase_onee.png" alt='Phase One' width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/libft"><img src="./libftm.png" alt='Libft' width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line"><img src="./get_next_linem.png" alt='get_next_line' width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/ft_printf"><img src="./ft_printf.png" alt='ft_printf' width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/born2beroot"><img src="./born2beroot.png" alt='born2beroot' width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/so_long"><img src="./so_long.png" alt='so_long' width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/pipex"><img src="./pipexe.png" alt='pipex' width="100"/></a>
+<a href=""><img src="./phase_onee.png" alt='Phase One' align="center" width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/libft"><img src="./libftm.png" alt='Libft' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line"><img src="./get_next_linem.png" alt='get_next_line' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/ft_printf"><img src="./ft_printf.png" alt='ft_printf' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/born2beroot"><img src="./born2beroot.png" alt='born2beroot' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/so_long"><img src="./so_long.png" alt='so_long' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/pipex"><img src="./pipexe.png" alt='pipex' align="center" width="70"/></a>
 
 ---
 <h4 align="left"> :star2::star2: PHASE TWO</h4>
-<a href=""><img src="./phase_twon.png" usemap="" alt='Phase Two' width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/push_swap"><img src="./push_swap.png" alt='push_swap' width="100"/></a>
+<a href=""><img src="./phase_twon.png" usemap="" alt='Phase Two' align="center" width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/push_swap"><img src="./push_swap.png" alt='push_swap' align="center" width="70"/></a>
