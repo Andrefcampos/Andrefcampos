@@ -25,7 +25,7 @@
 |[![Andrefcampos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#)|
 |--|--|
 ---
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" /></a>
 <h1 align="center"> :trophy: :four::two: Projects:</h1>
 <h3 align="left"> :star2: Badgets:</h3>
 <a href="https://github.com/Andrefcampos/42school/tree/main/42_Piscine"><img src="./piscine.png" usemap="" alt='Piscine' width="100"/></a>
