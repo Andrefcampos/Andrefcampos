@@ -27,7 +27,7 @@
 
 ---
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" /></a>
+<a href="https://game.42sp.org.br/cadet/andrefil"><img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" /></a>
 </div>
 
 <h3 align="left"> :star2: BADGETS</h3>
