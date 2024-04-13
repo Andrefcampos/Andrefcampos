@@ -7,7 +7,7 @@
 <h1>Hello,</h1>
 
 <p align="left">
-  <img alt="Be Welcome to profile Andrefcampos" src="./welcome.gif">
+  <img alt="Be Welcome to profile Andrefcampos" src="./capa_git.jpg">
 </p>
 
 ### Programming and Markup Languages
