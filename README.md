@@ -12,7 +12,7 @@
 
 <div align="center">
 	<h1 align="center">
-		<a href="https://www.32sp.org.br/"> <img src="https://cdn.greatpages.com.br/www.42sp.org.br/1709241428/imagens/desktop/289143_1_170924049750909938.svg" width="80" alt="logo_42sp"></a>
+		<a href="https://www.42sp.org.br/"> <img src="https://cdn.greatpages.com.br/www.42sp.org.br/1709241428/imagens/desktop/289143_1_170924049750909938.svg" width="80" alt="logo_42sp"></a>
 		<span>Projects</span>
 	</h1>
 </div>
