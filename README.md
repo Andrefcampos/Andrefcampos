@@ -52,8 +52,6 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="175" align="center"/>
 </div>
 
-##
-
 <div>
 	<div align="center">
 		<h4>Languages:</h4>
