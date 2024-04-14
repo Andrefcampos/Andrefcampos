@@ -42,8 +42,6 @@
 	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/push_swap"><img src="./push_swap.png" alt='push_swap' align="center" width="70"/></a>
 </div>
 
-##
-
 <div align="center">
 	<h3>
 		<img src="./stats (1).png" width="50" align="center">
