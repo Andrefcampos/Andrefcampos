@@ -10,7 +10,8 @@
   <img alt="Be Welcome to profile Andrefcampos" src="./capa_git.jpg">
 </p>
 
-### Programming and Markup Languages
+<h3 align="center">Languages and tools</h3>
+
 ![C](https://img.shields.io/badge/C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
@@ -20,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/Mysql-000?style=flat&logo=mysql&logoColor=264CE4)
 
 ---
-<h3>GitHub Stats</h3> 
+<h3 align="center">GitHub Stats</h3> 
 	
 |[![Andrefcampos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#)|
 |--|--|
