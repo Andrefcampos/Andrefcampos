@@ -10,34 +10,60 @@
   <img alt="Be Welcome to profile Andrefcampos" src="./capa_git.jpg">
 </p>
 
-<h3 align="center">Languages and tools</h3>
-
-![C](https://img.shields.io/badge/C-000?style=flat&logo=c)
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=264CE4)
-![GIT](https://img.shields.io/badge/git-000?style=flat&logo=git&logoColor=E94D5F)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=FFF)
-![SQL](https://img.shields.io/badge/Mysql-000?style=flat&logo=mysql&logoColor=264CE4)
-
----
-<h3 align="center">GitHub Stats</h3> 
-	
-|[![Andrefcampos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#) | [![Andrefcampos GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](#)|
-|--|--|
-
----
 <div align="center">
-<a href="https://game.42sp.org.br/cadet/andrefil"><img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" /></a>
+	<h1 align="center">
+		<a href="https://www.32sp.org.br/"> <img src="https://cdn.greatpages.com.br/www.42sp.org.br/1709241428/imagens/desktop/289143_1_170924049750909938.svg" width="80" alt="logo_42sp"></a>
+		<span>Projects</span>
+	</h1>
 </div>
 
-<h3 align="left"> :star2: BADGETS</h3>
+<div align="center">
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Piscine"><img src="./piscine.png" align="center" alt="Piscine" width="80" /></a>
+	<a href=""><img src="./evaluatione.png" alt="P2P" align="center" width="80" /></a>
+</div>
 
-<a href="https://github.com/Andrefcampos/42school/tree/main/42_Piscine"><img align="center" src="./piscine.png" alt='Piscine' width="100"/></a> <a><img src="./evaluatione.png" alt='P2P' align="center" width="100"/></a>
-<h2 align="center"> :trophy: :four::two: PROJECTS</h2>	
-<h4 align="left"> :star2: PHASE ONE</h4>
-<a href=""><img src="./phase_onee.png" alt='Phase One' align="center" width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/libft"><img src="./libftm.png" alt='Libft' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line"><img src="./get_next_linem.png" alt='get_next_line' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/ft_printf"><img src="./ft_printf.png" alt='ft_printf' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/born2beroot"><img src="./born2beroot.png" alt='born2beroot' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/so_long"><img src="./so_long.png" alt='so_long' align="center" width="70"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/pipex"><img src="./pipexe.png" alt='pipex' align="center" width="70"/></a>
+<div align="center">
+	<h4 align="center"> 
+		<img src="./phase_onee.png" alt='Phase One' align="center" width="120" />
+	</h4>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/libft"><img src="./libftm.png" alt='Libft' align="center" width="70" /></a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line"><img src="./get_next_linem.png" alt='get_next_line' align="center" width="70" /></a> 
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/ft_printf"><img src="./ft_printf.png" alt='ft_printf' align="center" width="70"/></a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/born2beroot"><img src="./born2beroot.png" alt='born2beroot' align="center" width="70"/></a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/so_long"><img src="./so_long.png" alt='so_long' align="center" width="70"/></a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/pipex"><img src="./pipexe.png" alt='pipex' align="center" width="70"/></a>
+	
+</div>
 
----
-<h4 align="left"> :star2::star2: PHASE TWO</h4>
-<a href=""><img src="./phase_twon.png" usemap="" alt='Phase Two' align="center" width="100"/></a> <a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/push_swap"><img src="./push_swap.png" alt='push_swap' align="center" width="70"/></a>
+<div align="center">
+	<h4 align="center">
+		<img src="./phase_twon.png" usemap="" alt='Phase Two' align="center" width="120"/>
+	</h4>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/push_swap"><img src="./push_swap.png" alt='push_swap' align="center" width="70"/></a>
+</div>
+
+##
+
+<div align="center">
+	<h3>GitHub Stats</h3> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="275" />
+	<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="400" />
+</div>
+
+##
+
+<div>
+	<div align="center">
+		<h3>Languages:</h3>
+		<img alt="C" src="https://img.shields.io/badge/C-000?style=flat&logo=c" />
+		<img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
+		<img alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5" />
+	 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=264CE4" />	
+	</div>
+	<div align="center">
+		<h3>Tools:</h3>
+		<img alt="GIT" src="https://img.shields.io/badge/git-000?style=flat&logo=git&logoColor=E94D5F" />
+		<img alt="GIT_HUB" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=FFF" />
+		<img alt="SQL" src="https://img.shields.io/badge/Mysql-000?style=flat&logo=mysql&logoColor=264CE4" />
+	</div>
+</div>
