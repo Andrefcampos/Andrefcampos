@@ -49,9 +49,9 @@
 		<img src="./stats (1).png" width="50" align="center">
 		<scan>Git & 42 stats
 	</h3> 
-	<img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" width="243" align="center" />
-	<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="400" align="center" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="275" align="center"/>
+	<img src="https://badge.mediaplus.ma/colorfulwaves/andrefil?1337Badge=off&UM6P=off" alt="andrefil's 42 stats" width="154" align="center" />
+	<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="255" align="center" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="175" align="center"/>
 </div>
 
 ##
