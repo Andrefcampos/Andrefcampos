@@ -26,12 +26,24 @@
 	<h4 align="center"> 
 		<img src="./phase_onee.png" alt='Phase One' align="center" width="120" />
 	</h4>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/libft"><img src="./libftm.png" alt='Libft' align="center" width="70" /></a>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line"><img src="./get_next_linem.png" alt='get_next_line' align="center" width="70" /></a> 
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/ft_printf"><img src="./ft_printf.png" alt='ft_printf' align="center" width="70"/></a>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/born2beroot"><img src="./born2beroot.png" alt='born2beroot' align="center" width="70"/></a>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/so_long"><img src="./so_long.png" alt='so_long' align="center" width="70"/></a>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/pipex"><img src="./pipexe.png" alt='pipex' align="center" width="70"/></a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/libft">
+		<img src="./libftm.png" alt='Libft' align="center" width="70" />
+	</a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line">
+		<img src="./get_next_linem.png" alt='get_next_line' align="center" width="70" />
+	</a> 
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/ft_printf">
+		<img src="./ft_printf.png" alt='ft_printf' align="center" width="70"/>
+	</a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/born2beroot">
+		<img src="./born2beroot.png" alt='born2beroot' align="center" width="70"/>
+	</a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/so_long">
+		<img src="./so_long.png" alt='so_long' align="center" width="70"/>
+	</a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/pipex">
+		<img src="./pipexe.png" alt='pipex' align="center" width="70"/>
+	</a>
 	
 </div>
 
@@ -39,8 +51,12 @@
 	<h4 align="center">
 		<img src="./phase_twon.png" usemap="" alt='Phase Two' align="center" width="120"/>
 	</h4>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/push_swap"><img src="./push_swap.png" alt='push_swap' align="center" width="70"/></a>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/minishell"><img src="./minishelln.png" alt='push_swap' align="center" width="70"/></a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/push_swap">
+		<img src="./push_swap.png" alt='push_swap' align="center" width="70"/>
+	</a>
+	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/minishell">
+		<img src="./minishelln.png" alt='push_swap' align="center" width="70"/>
+	</a>
 </div>
 
 <div align="center">
