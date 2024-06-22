@@ -26,7 +26,7 @@
 	<h4 align="center"> 
 		<img src="./phase_onee.png" alt='Phase One' align="center" width="120" />
 	</h4>
-	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/libft">
+	<a href="https://github.com/Andrefcampos/Libft">
 		<img src="./libftm.png" alt='Libft' align="center" width="70" />
 	</a>
 	<a href="https://github.com/Andrefcampos/42school/tree/main/42_Formation/get_next_line">
