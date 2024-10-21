@@ -11,14 +11,10 @@
 </p>
 
 <div align="center">
-		<h3>
-			<img src="./stats (1).png" width="50" align="center">
-			<scan>Git stats
-		</h3> 
-		<div>
-			<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="492" align="center" />
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="340" align="center"/>
-		</div>
+	<div>
+		<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="492" align="center" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="340" align="center"/>
+	</div>
 <div>
 	<div align="center">
 		<h4>Languages:</h4>
