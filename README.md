@@ -42,8 +42,8 @@ I don't limit myself to a single stack. My repositories reflect technical explor
 ## 📊 Statistics
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&show_icons=true&theme=merko&count_private=true&include_all_commits=true&hide=issues&hide_border=true" width="49%" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&hide_border=true" width="42%" />
+	![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=andrefcampos_icons=true)
+	[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
