@@ -39,14 +39,6 @@ I don't limit myself to a single stack. My repositories reflect technical explor
 
 ---
 
-## 📊 Statistics
-
-	![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Andrefcampos_icons=true)
-
-	[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrefcampos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 💡 How I work
 
 - Pragmatic approach and constant technical curiosity
