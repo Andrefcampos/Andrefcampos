@@ -1,33 +1,61 @@
-<p align="left">
-	<img alt="andrefcampos visitors" src="https://komarev.com/ghpvc/?username=andrefcampos&color=6B8E23&style=flat&label=visitors" />
-	<img alt="andrefcampos followers" src="https://img.shields.io/github/followers/andrefcampos?color=olivedrab" />
-	<img alt="andrefcamposs stars" src="https://img.shields.io/github/stars/andrefcampos?color=olivedrab" />
-</p>
+![Banner](assets/capa_git.jpg)
 
-<h1>Hello,</h1>
+# André Campos
+Software developer focused on fundamentals, systems, and infrastructure.
 
-<p align="left">
-  <img alt="Be Welcome to profile Andrefcampos" src="./capa_git.jpg">
-</p>
+---
+
+I'm a developer with a constant interest in understanding how things work under the hood. My journey spans different languages, levels of abstraction, and types of projects — always with technical curiosity, hands-on experimentation, and a focus on real control over what I'm building.
+
+I don't limit myself to a single stack. My repositories reflect technical exploration, study projects, utility tools, and practical initiatives that prioritize clarity, control, and deep understanding of the problem.
+
+---
+
+## ⚙️ Areas of focus
+
+### 🧠 Technical foundation — C / C++
+- Data structures and algorithms
+- Low-level programming
+- Performance, memory, and resource control
+- Projects focused on deep learning of fundamentals
+
+### 🛠️ Automation and tooling — Python
+- Utility scripts
+- Task automation
+- Support tools for other projects
+- Rapid prototyping with focus on functionality
+
+### 🐳 Infrastructure — Docker
+- Building images from scratch
+- Writing `Dockerfile` directly
+- Using `docker-compose`
+- Running and managing containers
+- Understanding and controlling the execution environment
+
+### 🔧 Other languages and experiences
+- **TypeScript** — Practical projects and diverse applications
+- **Java** — Early-stage projects, good understanding of syntax and basic ecosystem
+- **Haxe** — Previous experience in specific projects
+
+---
+
+## 📊 Statistics
 
 <div align="center">
-	<div>
-		<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&layout=compact&show_icons=false&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="492" align="center" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true" width="340" align="center"/>
-	</div>
-<div>
-	<div align="center">
-		<h4>Languages:</h4>
-		<img alt="C" src="https://img.shields.io/badge/C-000?style=flat&logo=c" />
-		<img alt="C++" src="https://img.shields.io/badge/C++-000?style=flat&logo=c" />
-		<img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
-		<img alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5" />
-	 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=264CE4" />	
-	</div>
-	<div align="center">
-		<h4>Tools:</h4>
-		<img alt="GIT" src="https://img.shields.io/badge/git-000?style=flat&logo=git&logoColor=E94D5F" />
-		<img alt="GIT_HUB" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=FFF" />
-		<img alt="SQL" src="https://img.shields.io/badge/Mysql-000?style=flat&logo=mysql&logoColor=264CE4" />
-	</div>
+	<img src="https://github-readme-stats.vercel.app/api?username=andrefcampos&show_icons=true&theme=merko&count_private=true&include_all_commits=true&hide=issues&hide_border=true" width="49%" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact&theme=merko&hide_border=true" width="42%" />
 </div>
+
+---
+
+## 💡 How I work
+
+- Pragmatic approach and constant technical curiosity
+- Preference for simple and well-understood solutions
+- Value readable code and conscious maintenance
+- Clear, technical, and objective documentation
+- Avoid unnecessary abstractions and excessive reliance on magic tools
+
+---
+
+This profile reflects my ongoing journey of learning, experimenting, and building functional, well-grounded solutions.
