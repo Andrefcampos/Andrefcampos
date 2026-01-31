@@ -19,11 +19,13 @@ I don't limit myself to a single stack. My repositories reflect technical explor
 - Performance, memory, and resource control
 - Projects focused on deep learning of fundamentals
 
-### 🛠️ Automation and tooling — Python
-- Utility scripts
-- Task automation
-- Support tools for other projects
-- Rapid prototyping with focus on functionality
+### 🛠️ Python — Automation, tooling & AI
+- Scripts and automation for diverse workflows
+- Machine Learning and predictive modeling
+- Experimentation with Deep Learning architectures
+- Working with LLMs and Model Context Protocol (MCP)
+- Applied AI projects and technical exploration
+- Rapid prototyping and support tooling
 
 ### 🐳 Infrastructure — Docker
 - Building images from scratch
