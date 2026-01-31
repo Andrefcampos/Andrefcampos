@@ -43,6 +43,7 @@ I don't limit myself to a single stack. My repositories reflect technical explor
 
 <div align="center">
 	![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=andrefcampos_icons=true)
+	
 	[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcampos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
